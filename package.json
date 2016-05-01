@@ -1,0 +1,19 @@
+{
+  "name": "express-bootstrap-cms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuyutao/express-bootstrap-cms.git"
+  },
+  "author": "liuyutao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuyutao/express-bootstrap-cms/issues"
+  },
+  "homepage": "https://github.com/liuyutao/express-bootstrap-cms#readme"
+}
